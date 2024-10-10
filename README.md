@@ -52,7 +52,7 @@ Tech Stack
 
 
 
-![Shows app](./Pictures/jate.JPG)
+![Shows app](./Pictures/JATE.JPG)
 
 ![Shows app installed](./Pictures/installedapp.JPG)
 
