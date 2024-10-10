@@ -6,7 +6,7 @@ window.addEventListener('beforeinstallprompt', (event) => {
   // Prevent the default prompt from showing
   event.preventDefault();
   // Stash the event so it can be triggered later
-  deferredPrompt = event;
+  window.deferredPrompt = event;
 
   // Remove the hidden class from the button.
   butInstall.classList.toggle('hidden', false);
